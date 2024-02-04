@@ -1,8 +1,9 @@
-import React from "react";
 import { Link } from "react-router-dom";
 
+// eslint-disable-next-line react/prop-types
 const Donation = ({ donation }) => {
   // console.log(donation);
+  // eslint-disable-next-line react/prop-types
   const { logo, category, shortDescription, backgroundColor, color, id } =
     donation;
   return (

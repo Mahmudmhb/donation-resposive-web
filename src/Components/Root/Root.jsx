@@ -4,10 +4,11 @@ import Navber from "../Navber/Navber";
 
 const Root = () => {
   return (
-    <div className="w-11/12 mx-auto">
+    <div>
       <Navber></Navber>
-
-      <Outlet></Outlet>
+      <div className="w-11/12 mx-auto">
+        <Outlet></Outlet>
+      </div>
     </div>
   );
 };

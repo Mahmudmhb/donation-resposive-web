@@ -4,21 +4,23 @@ import logo from "../../Resources/Logo.png";
 const Navber = () => {
   const nav = (
     <>
-      <NavLink className="/">
-        <li>
-          <a>Home</a>
-        </li>
-      </NavLink>
-      <NavLink className="/donations">
-        <li>
-          <a>Donations</a>
-        </li>
-      </NavLink>
-      <NavLink className="/statistics">
-        <li>
-          <a>StatisTics</a>
-        </li>
-      </NavLink>
+      <li>
+        <a>
+          <NavLink className="/">Home </NavLink>
+        </a>
+      </li>
+
+      <li>
+        <a>
+          <NavLink className="/donations">Donations</NavLink>
+        </a>
+      </li>
+
+      <li>
+        <a>
+          <NavLink className="/statistics">Statistics </NavLink>
+        </a>
+      </li>
     </>
   );
 
