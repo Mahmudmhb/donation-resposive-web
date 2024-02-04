@@ -1,0 +1,171 @@
+[
+  {
+    "id": 27874511,
+    "heading": "Education",
+    "category": "Education",
+    "logo": "https://img.freepik.com/free-photo/cute-young-children-learning-how-recycle_23-2148490319.jpg",
+    "description": "Support education initiatives for a brighter future. Empower the next generation by contributing to educational programs, scholarships, and resources. Your donation helps build a foundation for knowledge, skills, and opportunities. Together, we can shape a world where every individual has access to quality education, unlocking their full potential and creating positive change. Join us in making a lasting impact on the lives of students and fostering a culture of learning and growth.",
+    "shortDescription": "Empower the next generation.",
+    "price": 1150,
+    "backgroundColor": "#feeae3",
+    "btn":[{
+      "btncolor": "#fdd2c4"
+    }],
+    "color": "#f87147"
+  },
+  {
+    "id": 2144444742,
+    "heading": "Healthcare",
+    "category": "Health",
+    "logo": "https://img.freepik.com/free-photo/medium-shot-people-collecting-donations_23-2149142847.jpg",
+    "description": "Contribute to better healthcare for all. Improve access to medical services, preventive care, and health resources. Your donation supports initiatives that address health disparities and ensure that everyone, regardless of their circumstances, can lead a healthy life. By investing in healthcare, you're helping communities thrive and promoting a future where everyone has the opportunity to enjoy good health. Join us in making a difference in the well-being of individuals and communities around the world.",
+    "shortDescription": "Improve access to medical services.",
+    "price": 1230,
+    "backgroundColor": "#ebf6e2",
+    "btn":[{
+      "backgroundColor": "#d4ecc1"
+    }],
+    "color": "#95cf68"
+  },
+  {
+    "id": 21454443,
+    "heading": "Environment",
+    "category": "Environment",
+    "logo": "https://img.freepik.com/free-photo/youth-folding-trash-forest_23-2147826364.jpg",
+    "description": "Support initiatives for a sustainable planet. Protect and preserve our environment through projects that focus on conservation, renewable energy, and ecological restoration. Your donation contributes to building a greener and healthier Earth for current and future generations. Together, we can combat climate change, conserve biodiversity, and create a sustainable balance between human activities and nature. Join us in safeguarding the planet and promoting responsible stewardship of our natural resources.",
+    "shortDescription": "Protect and preserve our environment.",
+    "price": 4040,
+    "backgroundColor": "#ebf6e2",
+    "btn":[{
+      "backgroundColor": "#d4ecc1"
+    }],
+    "color": "#95cf68"
+  },
+  {
+    "id": 211244,
+    "heading": "Animal Welfare",
+    "category": "Animal Welfare",
+    "logo": "https://img.freepik.com/free-photo/close-up-owners-giving-dog-water_23-2149027336.jpg",
+    "description": "Help animals in need and promote animal rights. Be a voice for the voiceless by supporting organizations that rescue, rehabilitate, and advocate for the welfare of animals. Your donation makes a positive impact on the lives of animals, from pets to wildlife. Together, we can work towards a world where animals are treated with compassion, dignity, and respect. Join us in making a difference for our furry, feathered, and finned friends.",
+    "shortDescription": "Be a voice for the voiceless.",
+    "price": 1225,
+    "backgroundColor": "#ffe3e4",
+    "btn":[{
+      "backgroundColor": "#ffc3c5"
+    }],
+    "color": "#ff6b70"
+  },
+  {
+    "id": 124511,
+    "heading": "Education",
+    "category": "Education",
+    "logo": "https://img.freepik.com/free-photo/cute-young-children-learning-how-recycle_23-2148490319.jpg",
+    "description": "Support education initiatives for a brighter future. Empower the next generation by contributing to educational programs, scholarships, and resources. Your donation helps build a foundation for knowledge, skills, and opportunities. Together, we can shape a world where every individual has access to quality education, unlocking their full potential and creating positive change. Join us in making a lasting impact on the lives of students and fostering a culture of learning and growth.",
+    "shortDescription": "Empower the next generation.",
+    "price": 5000,
+    "backgroundColor": "#d9e5ff",
+    "btn":[{
+      "backgroundColor": "#aec8ff"
+    }],
+    "color": "#0052ff"
+  },
+  {
+    "id": 21241,
+    "heading": "Education",
+    "category": "Education",
+    "logo": "https://img.freepik.com/free-photo/cute-young-children-learning-how-recycle_23-2148490319.jpg",
+    "description": "Support education initiatives for a brighter future. Empower the next generation by contributing to educational programs, scholarships, and resources. Your donation helps build a foundation for knowledge, skills, and opportunities. Together, we can shape a world where every individual has access to quality education, unlocking their full potential and creating positive change. Join us in making a lasting impact on the lives of students and fostering a culture of learning and growth.",
+    "shortDescription": "Empower the next generation.",
+    "price": 1150,
+    "backgroundColor": "#feeae3",
+    "btn":[{
+      "backgroundColor": "#fdd2c4"
+    }],
+    "color": "#f87147"
+  },
+  {
+    "id": 24444512,
+    "heading": "Healthcare",
+    "category": "Health",
+    "logo": "https://img.freepik.com/free-photo/medium-shot-people-collecting-donations_23-2149142847.jpg",
+    "description": "Contribute to better healthcare for all. Improve access to medical services, preventive care, and health resources. Your donation supports initiatives that address health disparities and ensure that everyone, regardless of their circumstances, can lead a healthy life. By investing in healthcare, you're helping communities thrive and promoting a future where everyone has the opportunity to enjoy good health. Join us in making a difference in the well-being of individuals and communities around the world.",
+    "shortDescription": "Improve access to medical services.",
+    "price": 1230,
+    "backgroundColor": "#ebf6e2",
+    "btn":[{
+      "backgroundColor": "#d4ecc1"
+    }],
+    "color": "#95cf68"
+  },
+  {
+    "id": 212423,
+    "heading": "Environment",
+    "category": "Environment",
+    "logo": "https://img.freepik.com/free-photo/youth-folding-trash-forest_23-2147826364.jpg",
+    "description": "Support initiatives for a sustainable planet. Protect and preserve our environment through projects that focus on conservation, renewable energy, and ecological restoration. Your donation contributes to building a greener and healthier Earth for current and future generations. Together, we can combat climate change, conserve biodiversity, and create a sustainable balance between human activities and nature. Join us in safeguarding the planet and promoting responsible stewardship of our natural resources.",
+    "shortDescription": "Protect and preserve our environment.",
+    "price": 4040,
+    "backgroundColor": "#ebf6e2",
+    "btn":[{
+      "backgroundColor": "#d4ecc1"
+    }],
+    "color": "#95cf68"
+  },
+  {
+    "id": 2212414,
+    "heading": "Animal Welfare",
+    "category": "Animal Welfare",
+    "logo": "https://img.freepik.com/free-photo/close-up-owners-giving-dog-water_23-2149027336.jpg",
+    "description": "Help animals in need and promote animal rights. Be a voice for the voiceless by supporting organizations that rescue, rehabilitate, and advocate for the welfare of animals. Your donation makes a positive impact on the lives of animals, from pets to wildlife. Together, we can work towards a world where animals are treated with compassion, dignity, and respect. Join us in making a difference for our furry, feathered, and finned friends.",
+    "shortDescription": "Be a voice for the voiceless.",
+    "price": 1225,
+    "backgroundColor": "#ffe3e4",
+    "btn":[{
+      "backgroundColor": "#ffc3c5"
+    }],
+    "color": "#ff6b70"
+  },
+  {
+    "id": 1212211,
+    "heading": "Education",
+    "category": "Education",
+    "logo": "https://img.freepik.com/free-photo/cute-young-children-learning-how-recycle_23-2148490319.jpg",
+    "description": "Support education initiatives for a brighter future. Empower the next generation by contributing to educational programs, scholarships, and resources. Your donation helps build a foundation for knowledge, skills, and opportunities. Together, we can shape a world where every individual has access to quality education, unlocking their full potential and creating positive change. Join us in making a lasting impact on the lives of students and fostering a culture of learning and growth.",
+    "shortDescription": "Empower the next generation.",
+    "price": 5000,
+    "backgroundColor": "#d9e5ff",
+    "btn":[{
+      "backgroundColor": "#aec8ff"
+    }],
+    "color": "#0052ff"
+  },
+
+  {
+    "id": 221211,
+    "heading": "Education",
+    "category": "Education",
+    "logo": "https://img.freepik.com/free-photo/cute-young-children-learning-how-recycle_23-2148490319.jpg",
+    "description": "Support education initiatives for a brighter future. Empower the next generation by contributing to educational programs, scholarships, and resources. Your donation helps build a foundation for knowledge, skills, and opportunities. Together, we can shape a world where every individual has access to quality education, unlocking their full potential and creating positive change. Join us in making a lasting impact on the lives of students and fostering a culture of learning and growth.",
+    "shortDescription": "Empower the next generation.",
+    "price": 1150,
+    "backgroundColor": "#feeae3",
+    "btn":[{
+      "backgroundColor": "#fdd2c4"
+    }],
+    "color": "#f87147"
+  },
+  {
+    "id": 11212,
+    "heading": "Healthcare",
+    "category": "Health",
+    "logo": "https://img.freepik.com/free-photo/medium-shot-people-collecting-donations_23-2149142847.jpg",
+    "description": "Contribute to better healthcare for all. Improve access to medical services, preventive care, and health resources. Your donation supports initiatives that address health disparities and ensure that everyone, regardless of their circumstances, can lead a healthy life. By investing in healthcare, you're helping communities thrive and promoting a future where everyone has the opportunity to enjoy good health. Join us in making a difference in the well-being of individuals and communities around the world.",
+    "shortDescription": "Improve access to medical services.",
+    "price": 1230,
+    "backgroundColor": "#ebf6e2",
+    "btn":[{
+      "backgroundColor": "#d4ecc1"
+    }],
+    "color": "#95cf68"
+  }
+]
